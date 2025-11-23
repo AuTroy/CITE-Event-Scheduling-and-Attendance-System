@@ -1,0 +1,7 @@
+{
+  "name": "NVSU CITE Events",
+  "description": "Campus Event Scheduling and Attendance System with Absentee Fines for NVSU College of Information Technology Education.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
